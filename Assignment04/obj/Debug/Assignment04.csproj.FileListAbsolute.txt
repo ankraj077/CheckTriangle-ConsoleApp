@@ -1,0 +1,7 @@
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\bin\Debug\nunit.framework.dll
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04\bin\Debug\nunit.framework.xml

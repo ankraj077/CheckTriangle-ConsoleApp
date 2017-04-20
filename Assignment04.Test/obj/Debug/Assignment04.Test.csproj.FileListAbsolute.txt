@@ -1,0 +1,10 @@
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\Assignment04.Test.dll
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\Assignment04.Test.pdb
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\Assignment04.exe
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\nunit.framework.dll
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\Assignment04.pdb
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\bin\Debug\nunit.framework.xml
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\obj\Debug\Assignment04.Test.csprojResolveAssemblyReference.cache
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\obj\Debug\Assignment04.Test.dll
+G:\Sem 2\Testing\Assignment 4\Assignment04\Assignment04.Test\obj\Debug\Assignment04.Test.pdb
